@@ -1,2 +1,5 @@
-# Chicken_Box
-Register what you have done, any issue.
+#배리어 프리 앱 개발 콘테스트
+
+앱 개발을 하면서 얻는 정보, 이슈, 이벤트 모두를 이 곳에 업로드 해주세요.
+
+
