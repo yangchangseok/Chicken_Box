@@ -1,0 +1,7 @@
+Button ButtonBollard = (Button) findViewById(R.id.볼라드);
+        ButtonBollard.setOnClickListener(new View.OnClickListener(){
+             public void onClick(View v){
+                 Intent intent1 = new Intent(getApplicationContext(), Bollard.class);
+                 startActivity(intent1);
+             }
+        });
